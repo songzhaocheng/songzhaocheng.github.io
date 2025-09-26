@@ -1,0 +1,20 @@
+{
+  "accountAssociation": {
+    "header": "REPLACE_ME",
+    "payload": "REPLACE_ME",
+    "signature": "REPLACE_ME"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Open @xxxrrr079",
+    "homeUrl": "https://songzhaocheng.github.io/farcaster-profile-site/miniapp.html",
+    "iconUrl": "https://songzhaocheng.github.io/farcaster-profile-site/icon.png",
+    "splashImageUrl": "https://songzhaocheng.github.io/farcaster-profile-site/icon.png",
+    "splashBackgroundColor": "#7047EB",
+    "description": "One tap to open my Farcaster profile.",
+    "primaryCategory": "social",
+    "ogTitle": "Open @xxxrrr079",
+    "ogDescription": "Tap to open my Farcaster profile.",
+    "ogImageUrl": "https://songzhaocheng.github.io/farcaster-profile-site/card.png"
+  }
+}
